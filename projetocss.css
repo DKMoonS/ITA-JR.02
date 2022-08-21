@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.473);
+
+}
+label{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+    
+}
+input{
+    padding: 7px;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.email{
+    margin-bottom: 30px;
+}
+img{
+    margin-right: 25px;
+}
